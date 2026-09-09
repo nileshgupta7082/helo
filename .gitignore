@@ -1,1 +1,8 @@
-*.class
+# Logs & OS
+*.log
+Thumbs.db
+.DS_Store
+
+# Node / Dependencies (if added later)
+node_modules/
+.npm/
